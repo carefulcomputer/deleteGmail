@@ -1,5 +1,5 @@
 // Things you might like to change
-var DELAY=3; // delete older than 10 day
+var DELAY=3; // delete older than 3 day
 
 // convert delay to millisecs
 var delayInMilli = DELAY * 24 * 60 * 60 * 1000;
